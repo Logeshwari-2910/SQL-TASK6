@@ -4,13 +4,13 @@
 
 ---
 
-### ** Objective**
+### **Objective**
 
 To apply subqueries within SQL queries to perform advanced data filtering, calculation, and decision-making. This helps in building complex logic using nested queries.
 
 ---
 
-### ** Concepts Covered**
+### **Concepts Covered**
 
 ####  1. Scalar Subquery
 
